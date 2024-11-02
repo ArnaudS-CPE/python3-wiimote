@@ -1,0 +1,7 @@
+Wiimote.c
+cwiidmodule.c
+setup.py
+cwiid.egg-info/PKG-INFO
+cwiid.egg-info/SOURCES.txt
+cwiid.egg-info/dependency_links.txt
+cwiid.egg-info/top_level.txt
